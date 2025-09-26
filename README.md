@@ -10,3 +10,10 @@
 
 # discord server 
 My discord server : https://discord.gg/fpG36D7h
+
+# Requirement to use
+
+• pip install discord.py
+
+• pkg install python3
+
